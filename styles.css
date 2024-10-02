@@ -120,6 +120,13 @@ header{
     padding: 20px 0;
     gap: 20px;
 }
+.cart-pagar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+    gap: 20px;
+}
 
 .cart-total h3{
     font-size: 20px;
